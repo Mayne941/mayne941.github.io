@@ -49,6 +49,7 @@ Professional memberships
 * Fellow of Institute of Biomedical Sciences
 * Fellow of Linnean Society
 * International Committee on Taxonomy of Viruses Taxonomy Proposal Summary Consortium
+* Scientific advisor to Wild Britain Forum
 
 Languages
 =====

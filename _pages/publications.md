@@ -10,10 +10,10 @@ Last updated April 2026
 Full texts and citation indices may be found at [Google Scholar](https://scholar.google.com/citations?user=nHXKU4gAAAAJ&hl=en).
 
 ## Preprints
-1. Kean K, Mayne R, Reid K, Secret S, Singleton B, Rockett R, et al. A snapshot of the UK blood donor plasma virome: a retrospective cross-sectional cohort study. medrXiv 2026
 1. Mayne R, Fiford C, Asadi R, Bolarinwa B, Fagbemi N, Kean K, et al. Integrating patient and public engagement into biomedical laboratory research: reflections, best practices and measuring impact from a Blood and Transplant Research Unit. medrXiv 2026
 
 ## Peer Reviewed Articles, Primary/Joint Primary Author
+1. Kean K, Mayne R, Reid K, Secret S, Singleton B, Rockett R, et al. A snapshot of the UK blood donor plasma virome: a retrospective cross-sectional cohort study. Journal of Medical Virology. 2026;98(8)
 1.  Mayne R, Smith D, Brown K, Chen Y, Firth A, Katayama K, et al.  Comprehensive hallmark gene
 sequence,  genomic  and  structural  analysis  of  Picornavirales  viruses  clarifies  new  and  existing  taxa. 
 Virus Evolution. 2026;12(veag023)

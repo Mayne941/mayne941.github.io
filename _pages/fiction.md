@@ -16,3 +16,13 @@ Three people are trapped underground. A man faces a firing squad after a strange
 
 [Bridge House Publishing](https://www.bridgehousepublishing.co.uk/)
 <br clear="left"/>
+
+
+<img src="../images/song_cover.png" align="left" alt="cover" width="500"  style="margin:16px;" />
+### Under submission Q4 2026
+
+*At the close of the dream, Caspar had gone to sleep alone, the fire within his heart dimmed by the things he'd drunk, but not fully extinguished. There was no way to find poetry in what had happened, no silver linings.*
+
+A boy with no name dreams of a man named Caspar from the floor of his prison cell. As Caspar’s life unravels under the influence of tragedy, kidnap and the enigmatic intentions of a calculating malefactor, the boy watches on in horror, having been told by another prisoner — or perhaps, her malicious jailer — that soon, Caspar and he will perish together.  As Caspar and his wife Lauren struggle to escape their tormentors, the boy races to deliver a message that might save them both. Can he find a way to speak with the man in his dreams before it’s too late?
+
+<br clear="left"/>
